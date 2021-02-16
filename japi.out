@@ -1,0 +1,44 @@
+{
+    "olli": {
+        "Global Quote": {
+            "01. symbol": "OLLI",
+            "02. open": "92.6000",
+            "03. high": "93.7950",
+            "04. low": "92.4400",
+            "05. price": "93.5300",
+            "06. volume": "441421",
+            "07. latest trading day": "2021-02-12",
+            "08. previous close": "92.0800",
+            "09. change": "1.4500",
+            "10. change percent": "1.5747%"
+        }
+    },
+    "ui": {
+        "Global Quote": {
+            "01. symbol": "UI",
+            "02. open": "356.5000",
+            "03. high": "359.2700",
+            "04. low": "352.0400",
+            "05. price": "353.9500",
+            "06. volume": "49654",
+            "07. latest trading day": "2021-02-12",
+            "08. previous close": "356.5600",
+            "09. change": "-2.6100",
+            "10. change percent": "-0.7320%"
+        }
+    },
+    "nvda": {
+        "Global Quote": {
+            "01. symbol": "NVDA",
+            "02. open": "602.0000",
+            "03. high": "611.6455",
+            "04. low": "591.0000",
+            "05. price": "598.4500",
+            "06. volume": "9368937",
+            "07. latest trading day": "2021-02-12",
+            "08. previous close": "610.0300",
+            "09. change": "-11.5800",
+            "10. change percent": "-1.8983%"
+        }
+    }
+}
